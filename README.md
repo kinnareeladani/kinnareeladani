@@ -47,6 +47,7 @@ I enjoy designing reliable services, async workflows, and clean architectures.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -54,7 +55,6 @@ I enjoy designing reliable services, async workflows, and clean architectures.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 
 ### 💳 Payment Gateways
 ![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
